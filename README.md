@@ -4,11 +4,13 @@ Passo a Passo para Execução
 Certifique-se de ter o JDK 23 instalado (ou outra versão compatível com Java 20 e acima, com suporte para preview features).
 Compilei todos os arquivos .class dentro da pasta bin.
 
-
 2 - Acessando o diretório do projeto:
 Abra o terminal ou prompt de comando.
 Navegue até a pasta bin do projeto. Por exemplo:
 cd C:\ProjetosSO\ExtraAv2\bin
+Uma observação: baixei do git hub e tive dificuldade para acessar a pasta "bin", caso tenha também, 
+vá até a pasta onde o simulador foi baixado, acesse diretamente a basta bin e copie seu caminho. 
+Após isso, basta ir ao terminal e acessar (cd + ctrl V).
 
 3 - Executando o programa: #####################################################
 Para executar o programa principal, utilize o comando:
